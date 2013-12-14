@@ -1,0 +1,6 @@
+BUFSIZ = 2097152
+THREADSIZE = 20
+ServicePortNum = 9999
+IPAddress = 192.168.1.136
+Req_Server_Port = 8088
+islogging = true
